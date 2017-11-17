@@ -1,0 +1,16 @@
+div {
+   width: 200px;
+   height: 200px;
+   border: 1px solid blue; 
+}
+
+.textColor {
+  color: palevioletred;
+  font-size: 50px;
+}
+
+.big {
+    width: 400px;
+    height: 400px;
+    background: mediumaquamarine;
+}
